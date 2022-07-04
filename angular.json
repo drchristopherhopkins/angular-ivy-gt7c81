@@ -23,7 +23,7 @@
             ],
             "styles": [
               "src/css/bootstrap.min.css",
-              "src/css/style.css"
+              "src/css/style.css",
   "src/lib/animate/animate.css"
             ],
             "scripts": [
