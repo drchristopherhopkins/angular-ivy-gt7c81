@@ -28,7 +28,8 @@
   "src/lib/animate/animate.css",
   "src/lib/owlcarousel/assets/owl.carousel.min.css",
   "src/lib/owlcarousel/assets/owl.theme.default.min.css",
-  "src/lib/owlcarousel/assets/owl.theme.green.min.css"
+  "src/lib/owlcarousel/assets/owl.theme.green.min.css",
+  "src/styles.css"
             ],
             "scripts": [
 "src/lib/easing/easing.min.js",
