@@ -28,10 +28,7 @@
   "src/lib/animate/animate.css",
   "src/lib/owlcarousel/assets/owl.carousel.min.css",
   "src/lib/owlcarousel/assets/owl.theme.default.min.css",
-  "src/lib/owlcarousel/assets/owl.theme.green.min.css",
-  "//cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css",
-  "//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css",
-  "//fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Poppins:wght@600;700&display=swap"
+  "src/lib/owlcarousel/assets/owl.theme.green.min.css"
             ],
             "scripts": [
 "src/lib/easing/easing.min.js",
