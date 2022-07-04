@@ -25,7 +25,7 @@
               "src/css/bootstrap.min.css",
               "src/css/style.css",
   "src/lib/animate/animate.css",
-  "src/lib/owlcarousel/assets/owlcarousel.min.css",
+  "src/lib/owlcarousel/assets/owl.carousel.min.css",
   "src/lib/owlcarousel/assets/owl.theme.default.min.css",
   "src/lib/owlcarousel/assets/owl.theme.green.min.css"
             ],
